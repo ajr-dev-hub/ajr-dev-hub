@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ajr-dev-hub
 - 👀 I’m interested in ... General programing
 - 🌱 I’m currently learning ...Godot 4.4 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...  Right now just learning from scratch
+- 📫 How to reach me ... NA not doing any projects of note.
   - ⚡ Fun fact: ... Demoscene.
 
 <!---
